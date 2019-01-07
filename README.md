@@ -31,7 +31,7 @@
 <br/><br/>
 
 <strong>9º Passo:</strong> Siga os passos da instalação normalmente.
-<br/>
+<br/><br/>
 <strong>10º Passo:</strong> Após terminada a instalação e reiniciado o pc, deverá cair nessa tela de seleção. Basta escolher o sistema para inciar.
 <img src="8.png" height="407" width="700">
-
+<br/>
