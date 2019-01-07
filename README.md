@@ -1,4 +1,4 @@
-			                      <h1>Instalar ubuntu dual boot!</h1>
+			                       Instalar ubuntu dual boot!
 
 1º passo: com o windows em funcionamento acesse o gerenciador de disco deixe uma parte do disco Não alocado ou reservada para realizar a instalação do ubuntu.
 <img src="1.jpg" height="407" width="700">
